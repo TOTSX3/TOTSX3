@@ -3,9 +3,8 @@
 
 I am a front-end user developer who is professional in my work
 
-**About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 FrontEnd Engineer
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
