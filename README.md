@@ -1,8 +1,10 @@
 ### Hi, I'm Ammar Ahmed 😊❤️
 
-# My GitHub contributions as a Game of Life
 
-[](https://github4life.herokuapp.com/ethomson.gif?z=6)
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+
+
 
 - 💼 FrontEnd Engineer
 
