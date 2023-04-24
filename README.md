@@ -1,4 +1,4 @@
-### Hi there 👋, Ammar Ahmed 
+### Hi there  Ammar Ahmed 👋
 #### I am a front-end developer programmer 🖤🤞
 ![I am a front-end developer programmer 🖤🤞](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
