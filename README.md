@@ -1,7 +1,7 @@
 ### Hi, I'm Ammar Ahmed 😊❤️
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I am a front-end user developer who is professional in my work
 
 **About me**
 
